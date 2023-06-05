@@ -1,44 +1,7 @@
-[
 {
     "category": "Programación",
     "question": "¿Cuál es el lenguaje de programación más usado hasta el 2023?",
     "options": ["Python", "Java", "Javascript"],
     "answer": 0,
     "explanation": "Python es el lenguaje más utilizada hasta el año 2023 debido a su tendencia en multiples áreas y en especial a la inteligencia artificial."
-},
-{
-    "category": "Matemáticas",
-    "question": "¿Cuál es la raiz de 16?",
-    "options": ["2", "4", "1"],
-    "answer": 1,
-    "explanation": "La raiz cuadrada es utilizada para encontrar el contrario a una potencia. "
-},
-{
-    "category": "Mascotas",
-    "question": "¿Cuál es el sonido que emiten los gatos?",
-    "options": ["Guauguau", "Rof Rof", "Miau Miau"],
-    "answer": 2,
-    "explanation": "Los sonidos del gato son Miau Miau."
-},
-{
-    "category": "Cine",
-    "question": "¿Cuál es la pelicula más vista de la historia?",
-    "options": ["Avatar", "Avengers", "Shrek"],
-    "answer": 0,
-    "explanation": "Python es el lenguaje más utilizada hasta el año 2023 debido a su tendencia en multiples áreas y en especial a la inteligencia artificial."
-},
-{
-    "category": "Historia",
-    "question": "¿En qué año inicio la segunda guerra mundial?",
-    "options": ["2000", "1950", "1939"],
-    "answer": 2,
-    "explanation": "La segunda guerra mundial inicia en 1939."
-},
-{
-    "category": "Idiomas",
-    "question": "¿Cuál es el idioma más hablado del mundo?",
-    "options": ["Español", "Inglés", "Chino"],
-    "answer": 2,
-    "explanation": "Python es el lenguaje más utilizada hasta el año 2023 debido a su tendencia en multiples áreas y en especial a la inteligencia artificial."
 }
-]
